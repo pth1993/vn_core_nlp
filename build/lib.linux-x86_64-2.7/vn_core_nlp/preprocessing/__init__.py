@@ -1,0 +1,3 @@
+from sentence_detector import sentence_detector
+from word_tokenizer import word_tokenizer
+from pos_tagger import pos_tagger

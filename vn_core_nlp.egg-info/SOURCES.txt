@@ -5,6 +5,7 @@ vn_core_nlp.egg-info/PKG-INFO
 vn_core_nlp.egg-info/SOURCES.txt
 vn_core_nlp.egg-info/dependency_links.txt
 vn_core_nlp.egg-info/not-zip-safe
+vn_core_nlp.egg-info/requires.txt
 vn_core_nlp.egg-info/top_level.txt
 vn_core_nlp/preprocessing/__init__.py
 vn_core_nlp/preprocessing/__init__.pyc
@@ -138,3 +139,19 @@ vn_core_nlp/preprocessing/word_tokenizer/vn.hus.nlp.tokenizer-4.1.1-bin/samples/
 vn_core_nlp/preprocessing/word_tokenizer/vn.hus.nlp.tokenizer-4.1.1-bin/samples/3.txt
 vn_core_nlp/preprocessing/word_tokenizer/vn.hus.nlp.tokenizer-4.1.1-bin/samples/4.tok.txt
 vn_core_nlp/preprocessing/word_tokenizer/vn.hus.nlp.tokenizer-4.1.1-bin/samples/4.txt
+vn_core_nlp/semantic_role_labeling/__init__.py
+vn_core_nlp/semantic_role_labeling/__init__.pyc
+vn_core_nlp/semantic_role_labeling/semantic_role_labeling.py
+vn_core_nlp/semantic_role_labeling/semantic_role_labeling.pyc
+vn_core_nlp/semantic_role_labeling/vnSRL-1.0.0/README.md
+vn_core_nlp/semantic_role_labeling/vnSRL-1.0.0/lib.py
+vn_core_nlp/semantic_role_labeling/vnSRL-1.0.0/lib.pyc
+vn_core_nlp/semantic_role_labeling/vnSRL-1.0.0/vnSRL.py
+vn_core_nlp/semantic_role_labeling/vnSRL-1.0.0/data/input/100-sen.txt
+vn_core_nlp/semantic_role_labeling/vnSRL-1.0.0/data/output/output.txt
+vn_core_nlp/semantic_role_labeling/vnSRL-1.0.0/embedding/glove.pkl
+vn_core_nlp/semantic_role_labeling/vnSRL-1.0.0/embedding/skipgram.pkl
+vn_core_nlp/semantic_role_labeling/vnSRL-1.0.0/model/enc.pkl
+vn_core_nlp/semantic_role_labeling/vnSRL-1.0.0/model/leFeature.pkl
+vn_core_nlp/semantic_role_labeling/vnSRL-1.0.0/model/leLabel.pkl
+vn_core_nlp/semantic_role_labeling/vnSRL-1.0.0/model/model.pkl

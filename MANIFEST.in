@@ -1,1 +1,2 @@
 recursive-include vn_core_nlp/preprocessing *
+recursive-include vn_core_nlp/semantic_role_labeling *
