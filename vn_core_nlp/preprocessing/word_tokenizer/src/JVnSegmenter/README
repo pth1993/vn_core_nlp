@@ -1,0 +1,80 @@
+Directory structure:
+====================
+
+    model		containing CRF word segmenting model trained on 8000 Vietnamese sentences
+    samples		containing sample input data files
+    src			containing source code files
+    Makefile		make file
+    dist		containing binary libarary 	- the jar output file	
+    JVnSegmenter.jar	binary libarary (output of compiling process)
+    README		this one
+
+For Netbean:
+====================
+    nbproject		containing neccessary files for the Netbean project	
+    build		containing classes file if compiling with Netbean
+    dist		containing binary libarary 	- the jar output file	
+    build.xml		    	
+    manifest.mf
+    
+How to compile in Linux:
+=======================
+
+    make -f [Make file name] clean
+    make -f [Make file name] all
+
+How to compile in Window:
+========================
+    Open project with Netbean and build it again	
+
+How to test:
+============
+
+    make test
+    
+    after testing, go to samples directory to see the outputs. 
+    the output data files are in UTF-8 and have words bounded by [ and ]
+    
+
+How to use JVnSegmenter:
+=====================
+
+    command line:
+    
+    case 1:
+	
+	java -mx512MB -classpath <CLASSPATH> JVnSegmenter.JVnSegmenter -modeldir <MODELDIR> -inputfile <INPUTFILE>
+	
+    case 2:
+    
+	java -mx512MB -classpath <CLASSPATH> JVnSegmenter.JVnSegmenter -modeldir <MODELDIR> -inputdir <INPUTDIR>
+	
+    where:
+	
+	-mx512MB: to extend heap memory for JVM
+	
+	<CLASSPATH> is the path to the "JVnSegmenter.jar" file. For instance, if we are currently at the home 
+	directory of JVnSegmenter, the <CLASSPATH> is "dist/JVnSegmenter.jar"
+	
+	<MODELDIR> is the path to the trained model. For instance, if we are currently at the home directory
+	of CRFChunker, the <MODELDIR> is "./model"
+	
+	<INPUTFILE> is the input data file with the format as follows:
+	    - text file in UTF-8 format
+	    - one sentence on each line
+	    
+	<INPUTDIR> is the directory contain multiple input data files. This option is useful when we 
+	need to tag a lot of documents without loading the model multiple times. This helps reduce 
+	computational time dramatically.
+	
+
+    example:
+    
+	if we are currently at the top (home) directory of JVnSegmenter and we would like to tag an input
+	data file named "input.txt" which is also located at the top directory of JVnSegmenter, we perform:
+	
+	java -mx512MB -classpath ./JVnSegmenter.jar JVnSegmenter.JVnSegmenter -modeldir ./model -inputfile ./input.txt.pos
+	
+	the output will be "input.txt.vwseg"
+	
+	

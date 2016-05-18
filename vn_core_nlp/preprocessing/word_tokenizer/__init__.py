@@ -1,1 +1,2 @@
-from .word_tokenizer import WordTokenizer
+from .vnTokenizer import vnTokenizer
+from .JVnSegmenter import JVnSegmenter

@@ -1,4 +1,0 @@
-The vnTokenizer tool is distributed under the GNU General Public License:
-
-	http://www.gnu.org/copyleft/gpl.html
-	

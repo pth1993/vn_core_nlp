@@ -1,1 +1,1 @@
-from .sentence_detector import SentenceDetector
+from .vnSentDetector import vnSentDetector

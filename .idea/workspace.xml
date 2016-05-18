@@ -1,7 +1,151 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7eac091c-52e1-46f2-adc9-c5efbe7ad8b5" name="Default" comment="" />
+    <list default="true" id="7eac091c-52e1-46f2-adc9-c5efbe7ad8b5" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vn_core_nlp/preprocessing/pos_tagger/pos_tagger.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vn_core_nlp/preprocessing/pos_tagger/vn.hus.nlp.tagger-4.2.0-bin/CHANGES.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vn_core_nlp/preprocessing/pos_tagger/vn.hus.nlp.tagger-4.2.0-bin/LICENSE.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vn_core_nlp/preprocessing/pos_tagger/vn.hus.nlp.tagger-4.2.0-bin/README.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vn_core_nlp/preprocessing/pos_tagger/vn.hus.nlp.tagger-4.2.0-bin/lib/commons-cli-1.2.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vn_core_nlp/preprocessing/pos_tagger/vn.hus.nlp.tagger-4.2.0-bin/lib/edu.stanford.nlp.tagger-2.0.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vn_core_nlp/preprocessing/pos_tagger/vn.hus.nlp.tagger-4.2.0-bin/lib/vn.hus.nlp.fsm-1.0.0.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vn_core_nlp/preprocessing/pos_tagger/vn.hus.nlp.tagger-4.2.0-bin/lib/vn.hus.nlp.tokenizer-4.1.1.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vn_core_nlp/preprocessing/pos_tagger/vn.hus.nlp.tagger-4.2.0-bin/lib/vn.hus.nlp.utils-1.0.0.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vn_core_nlp/preprocessing/pos_tagger/vn.hus.nlp.tagger-4.2.0-bin/resources/automata/dfaLexicon.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vn_core_nlp/preprocessing/pos_tagger/vn.hus.nlp.tagger-4.2.0-bin/resources/automata/externalLexicon.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vn_core_nlp/preprocessing/pos_tagger/vn.hus.nlp.tagger-4.2.0-bin/resources/bigram/bigram.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vn_core_nlp/preprocessing/pos_tagger/vn.hus.nlp.tagger-4.2.0-bin/resources/bigram/unigram.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vn_core_nlp/preprocessing/pos_tagger/vn.hus.nlp.tagger-4.2.0-bin/resources/lexers/lexers.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vn_core_nlp/preprocessing/pos_tagger/vn.hus.nlp.tagger-4.2.0-bin/resources/models/vtb.tagger" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vn_core_nlp/preprocessing/pos_tagger/vn.hus.nlp.tagger-4.2.0-bin/resources/models/vtb.tagger.props" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vn_core_nlp/preprocessing/pos_tagger/vn.hus.nlp.tagger-4.2.0-bin/resources/normalization/rules.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vn_core_nlp/preprocessing/pos_tagger/vn.hus.nlp.tagger-4.2.0-bin/resources/prefix/namedEntityPrefix.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vn_core_nlp/preprocessing/pos_tagger/vn.hus.nlp.tagger-4.2.0-bin/samples/0.tagged.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vn_core_nlp/preprocessing/pos_tagger/vn.hus.nlp.tagger-4.2.0-bin/samples/0.tagged.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vn_core_nlp/preprocessing/pos_tagger/vn.hus.nlp.tagger-4.2.0-bin/samples/0.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vn_core_nlp/preprocessing/pos_tagger/vn.hus.nlp.tagger-4.2.0-bin/samples/2.tagged.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vn_core_nlp/preprocessing/pos_tagger/vn.hus.nlp.tagger-4.2.0-bin/samples/2.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vn_core_nlp/preprocessing/pos_tagger/vn.hus.nlp.tagger-4.2.0-bin/tokenizer.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vn_core_nlp/preprocessing/pos_tagger/vn.hus.nlp.tagger-4.2.0-bin/vn.hus.nlp.tagger-4.2.0.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vn_core_nlp/preprocessing/pos_tagger/vn.hus.nlp.tagger-4.2.0-bin/vnTagger.bat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vn_core_nlp/preprocessing/pos_tagger/vn.hus.nlp.tagger-4.2.0-bin/vnTagger.sh" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vn_core_nlp/preprocessing/sentence_detector/sentence_detector.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vn_core_nlp/preprocessing/sentence_detector/vn.hus.nlp.sd-2.0.0-bin/LICENSE.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vn_core_nlp/preprocessing/sentence_detector/vn.hus.nlp.sd-2.0.0-bin/MANIFEST.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vn_core_nlp/preprocessing/sentence_detector/vn.hus.nlp.sd-2.0.0-bin/README.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vn_core_nlp/preprocessing/sentence_detector/vn.hus.nlp.sd-2.0.0-bin/lib/commons-cli-1.2.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vn_core_nlp/preprocessing/sentence_detector/vn.hus.nlp.sd-2.0.0-bin/lib/maxent-2.5.2.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vn_core_nlp/preprocessing/sentence_detector/vn.hus.nlp.sd-2.0.0-bin/lib/opennlp-tools-1.4.3.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vn_core_nlp/preprocessing/sentence_detector/vn.hus.nlp.sd-2.0.0-bin/lib/trove.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vn_core_nlp/preprocessing/sentence_detector/vn.hus.nlp.sd-2.0.0-bin/lib/vn.hus.nlp.utils-1.0.0.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vn_core_nlp/preprocessing/sentence_detector/vn.hus.nlp.sd-2.0.0-bin/models/sentDetection/VietnameseSD.bin.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vn_core_nlp/preprocessing/sentence_detector/vn.hus.nlp.sd-2.0.0-bin/samples/test0.sd.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vn_core_nlp/preprocessing/sentence_detector/vn.hus.nlp.sd-2.0.0-bin/samples/test0.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vn_core_nlp/preprocessing/sentence_detector/vn.hus.nlp.sd-2.0.0-bin/vn.hus.nlp.sd-2.0.0.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vn_core_nlp/preprocessing/sentence_detector/vn.hus.nlp.sd-2.0.0-bin/vnSentDetector.bat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vn_core_nlp/preprocessing/sentence_detector/vn.hus.nlp.sd-2.0.0-bin/vnSentDetector.sh" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vn_core_nlp/preprocessing/word_tokenizer/vn.hus.nlp.tokenizer-4.1.1-bin/CHANGES.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vn_core_nlp/preprocessing/word_tokenizer/vn.hus.nlp.tokenizer-4.1.1-bin/LICENSE.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vn_core_nlp/preprocessing/word_tokenizer/vn.hus.nlp.tokenizer-4.1.1-bin/README-en.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vn_core_nlp/preprocessing/word_tokenizer/vn.hus.nlp.tokenizer-4.1.1-bin/README-vi.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vn_core_nlp/preprocessing/word_tokenizer/vn.hus.nlp.tokenizer-4.1.1-bin/build.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vn_core_nlp/preprocessing/word_tokenizer/vn.hus.nlp.tokenizer-4.1.1-bin/dist/vn.hus.nlp.tokenizer-4.1.1-bin/build.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vn_core_nlp/preprocessing/word_tokenizer/vn.hus.nlp.tokenizer-4.1.1-bin/dist/vn.hus.nlp.tokenizer-4.1.1-bin/dist/vn.hus.nlp.tokenizer-4.1.1-bin/build.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vn_core_nlp/preprocessing/word_tokenizer/vn.hus.nlp.tokenizer-4.1.1-bin/dist/vn.hus.nlp.tokenizer-4.1.1-bin/dist/vn.hus.nlp.tokenizer-4.1.1-bin/dist/vn.hus.nlp.tokenizer-4.1.1-src/build.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vn_core_nlp/preprocessing/word_tokenizer/vn.hus.nlp.tokenizer-4.1.1-bin/dist/vn.hus.nlp.tokenizer-4.1.1-bin/dist/vn.hus.nlp.tokenizer-4.1.1-bin/dist/vn.hus.nlp.tokenizer-4.1.1-src/tokenizer.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vn_core_nlp/preprocessing/word_tokenizer/vn.hus.nlp.tokenizer-4.1.1-bin/dist/vn.hus.nlp.tokenizer-4.1.1-bin/dist/vn.hus.nlp.tokenizer-4.1.1-bin/tokenizer.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vn_core_nlp/preprocessing/word_tokenizer/vn.hus.nlp.tokenizer-4.1.1-bin/dist/vn.hus.nlp.tokenizer-4.1.1-bin/dist/vn.hus.nlp.tokenizer-4.1.1-src/build.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vn_core_nlp/preprocessing/word_tokenizer/vn.hus.nlp.tokenizer-4.1.1-bin/dist/vn.hus.nlp.tokenizer-4.1.1-bin/dist/vn.hus.nlp.tokenizer-4.1.1-src/dist/vn.hus.nlp.tokenizer-4.1.1-bin/build.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vn_core_nlp/preprocessing/word_tokenizer/vn.hus.nlp.tokenizer-4.1.1-bin/dist/vn.hus.nlp.tokenizer-4.1.1-bin/dist/vn.hus.nlp.tokenizer-4.1.1-src/dist/vn.hus.nlp.tokenizer-4.1.1-bin/dist/vn.hus.nlp.tokenizer-4.1.1-src/build.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vn_core_nlp/preprocessing/word_tokenizer/vn.hus.nlp.tokenizer-4.1.1-bin/dist/vn.hus.nlp.tokenizer-4.1.1-bin/dist/vn.hus.nlp.tokenizer-4.1.1-src/dist/vn.hus.nlp.tokenizer-4.1.1-bin/dist/vn.hus.nlp.tokenizer-4.1.1-src/tokenizer.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vn_core_nlp/preprocessing/word_tokenizer/vn.hus.nlp.tokenizer-4.1.1-bin/dist/vn.hus.nlp.tokenizer-4.1.1-bin/dist/vn.hus.nlp.tokenizer-4.1.1-src/dist/vn.hus.nlp.tokenizer-4.1.1-bin/tokenizer.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vn_core_nlp/preprocessing/word_tokenizer/vn.hus.nlp.tokenizer-4.1.1-bin/dist/vn.hus.nlp.tokenizer-4.1.1-bin/dist/vn.hus.nlp.tokenizer-4.1.1-src/dist/vn.hus.nlp.tokenizer-4.1.1-src/build.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vn_core_nlp/preprocessing/word_tokenizer/vn.hus.nlp.tokenizer-4.1.1-bin/dist/vn.hus.nlp.tokenizer-4.1.1-bin/dist/vn.hus.nlp.tokenizer-4.1.1-src/dist/vn.hus.nlp.tokenizer-4.1.1-src/tokenizer.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vn_core_nlp/preprocessing/word_tokenizer/vn.hus.nlp.tokenizer-4.1.1-bin/dist/vn.hus.nlp.tokenizer-4.1.1-bin/dist/vn.hus.nlp.tokenizer-4.1.1-src/tokenizer.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vn_core_nlp/preprocessing/word_tokenizer/vn.hus.nlp.tokenizer-4.1.1-bin/dist/vn.hus.nlp.tokenizer-4.1.1-bin/tokenizer.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vn_core_nlp/preprocessing/word_tokenizer/vn.hus.nlp.tokenizer-4.1.1-bin/dist/vn.hus.nlp.tokenizer-4.1.1-src/build.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vn_core_nlp/preprocessing/word_tokenizer/vn.hus.nlp.tokenizer-4.1.1-bin/dist/vn.hus.nlp.tokenizer-4.1.1-src/dist/vn.hus.nlp.tokenizer-4.1.1-bin/build.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vn_core_nlp/preprocessing/word_tokenizer/vn.hus.nlp.tokenizer-4.1.1-bin/dist/vn.hus.nlp.tokenizer-4.1.1-src/dist/vn.hus.nlp.tokenizer-4.1.1-bin/dist/vn.hus.nlp.tokenizer-4.1.1-bin/build.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vn_core_nlp/preprocessing/word_tokenizer/vn.hus.nlp.tokenizer-4.1.1-bin/dist/vn.hus.nlp.tokenizer-4.1.1-src/dist/vn.hus.nlp.tokenizer-4.1.1-bin/dist/vn.hus.nlp.tokenizer-4.1.1-bin/dist/vn.hus.nlp.tokenizer-4.1.1-src/build.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vn_core_nlp/preprocessing/word_tokenizer/vn.hus.nlp.tokenizer-4.1.1-bin/dist/vn.hus.nlp.tokenizer-4.1.1-src/dist/vn.hus.nlp.tokenizer-4.1.1-bin/dist/vn.hus.nlp.tokenizer-4.1.1-bin/dist/vn.hus.nlp.tokenizer-4.1.1-src/tokenizer.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vn_core_nlp/preprocessing/word_tokenizer/vn.hus.nlp.tokenizer-4.1.1-bin/dist/vn.hus.nlp.tokenizer-4.1.1-src/dist/vn.hus.nlp.tokenizer-4.1.1-bin/dist/vn.hus.nlp.tokenizer-4.1.1-bin/tokenizer.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vn_core_nlp/preprocessing/word_tokenizer/vn.hus.nlp.tokenizer-4.1.1-bin/dist/vn.hus.nlp.tokenizer-4.1.1-src/dist/vn.hus.nlp.tokenizer-4.1.1-bin/dist/vn.hus.nlp.tokenizer-4.1.1-src/build.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vn_core_nlp/preprocessing/word_tokenizer/vn.hus.nlp.tokenizer-4.1.1-bin/dist/vn.hus.nlp.tokenizer-4.1.1-src/dist/vn.hus.nlp.tokenizer-4.1.1-bin/dist/vn.hus.nlp.tokenizer-4.1.1-src/dist/vn.hus.nlp.tokenizer-4.1.1-bin/build.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vn_core_nlp/preprocessing/word_tokenizer/vn.hus.nlp.tokenizer-4.1.1-bin/dist/vn.hus.nlp.tokenizer-4.1.1-src/dist/vn.hus.nlp.tokenizer-4.1.1-bin/dist/vn.hus.nlp.tokenizer-4.1.1-src/dist/vn.hus.nlp.tokenizer-4.1.1-bin/dist/vn.hus.nlp.tokenizer-4.1.1-src/build.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vn_core_nlp/preprocessing/word_tokenizer/vn.hus.nlp.tokenizer-4.1.1-bin/dist/vn.hus.nlp.tokenizer-4.1.1-src/dist/vn.hus.nlp.tokenizer-4.1.1-bin/dist/vn.hus.nlp.tokenizer-4.1.1-src/dist/vn.hus.nlp.tokenizer-4.1.1-bin/dist/vn.hus.nlp.tokenizer-4.1.1-src/tokenizer.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vn_core_nlp/preprocessing/word_tokenizer/vn.hus.nlp.tokenizer-4.1.1-bin/dist/vn.hus.nlp.tokenizer-4.1.1-src/dist/vn.hus.nlp.tokenizer-4.1.1-bin/dist/vn.hus.nlp.tokenizer-4.1.1-src/dist/vn.hus.nlp.tokenizer-4.1.1-bin/tokenizer.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vn_core_nlp/preprocessing/word_tokenizer/vn.hus.nlp.tokenizer-4.1.1-bin/dist/vn.hus.nlp.tokenizer-4.1.1-src/dist/vn.hus.nlp.tokenizer-4.1.1-bin/dist/vn.hus.nlp.tokenizer-4.1.1-src/dist/vn.hus.nlp.tokenizer-4.1.1-src/build.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vn_core_nlp/preprocessing/word_tokenizer/vn.hus.nlp.tokenizer-4.1.1-bin/dist/vn.hus.nlp.tokenizer-4.1.1-src/dist/vn.hus.nlp.tokenizer-4.1.1-bin/dist/vn.hus.nlp.tokenizer-4.1.1-src/dist/vn.hus.nlp.tokenizer-4.1.1-src/tokenizer.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vn_core_nlp/preprocessing/word_tokenizer/vn.hus.nlp.tokenizer-4.1.1-bin/dist/vn.hus.nlp.tokenizer-4.1.1-src/dist/vn.hus.nlp.tokenizer-4.1.1-bin/dist/vn.hus.nlp.tokenizer-4.1.1-src/tokenizer.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vn_core_nlp/preprocessing/word_tokenizer/vn.hus.nlp.tokenizer-4.1.1-bin/dist/vn.hus.nlp.tokenizer-4.1.1-src/dist/vn.hus.nlp.tokenizer-4.1.1-bin/tokenizer.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vn_core_nlp/preprocessing/word_tokenizer/vn.hus.nlp.tokenizer-4.1.1-bin/dist/vn.hus.nlp.tokenizer-4.1.1-src/dist/vn.hus.nlp.tokenizer-4.1.1-src/build.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vn_core_nlp/preprocessing/word_tokenizer/vn.hus.nlp.tokenizer-4.1.1-bin/dist/vn.hus.nlp.tokenizer-4.1.1-src/dist/vn.hus.nlp.tokenizer-4.1.1-src/dist/vn.hus.nlp.tokenizer-4.1.1-bin/build.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vn_core_nlp/preprocessing/word_tokenizer/vn.hus.nlp.tokenizer-4.1.1-bin/dist/vn.hus.nlp.tokenizer-4.1.1-src/dist/vn.hus.nlp.tokenizer-4.1.1-src/dist/vn.hus.nlp.tokenizer-4.1.1-bin/dist/vn.hus.nlp.tokenizer-4.1.1-src/build.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vn_core_nlp/preprocessing/word_tokenizer/vn.hus.nlp.tokenizer-4.1.1-bin/dist/vn.hus.nlp.tokenizer-4.1.1-src/dist/vn.hus.nlp.tokenizer-4.1.1-src/dist/vn.hus.nlp.tokenizer-4.1.1-bin/dist/vn.hus.nlp.tokenizer-4.1.1-src/tokenizer.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vn_core_nlp/preprocessing/word_tokenizer/vn.hus.nlp.tokenizer-4.1.1-bin/dist/vn.hus.nlp.tokenizer-4.1.1-src/dist/vn.hus.nlp.tokenizer-4.1.1-src/dist/vn.hus.nlp.tokenizer-4.1.1-bin/tokenizer.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vn_core_nlp/preprocessing/word_tokenizer/vn.hus.nlp.tokenizer-4.1.1-bin/dist/vn.hus.nlp.tokenizer-4.1.1-src/dist/vn.hus.nlp.tokenizer-4.1.1-src/dist/vn.hus.nlp.tokenizer-4.1.1-src/build.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vn_core_nlp/preprocessing/word_tokenizer/vn.hus.nlp.tokenizer-4.1.1-bin/dist/vn.hus.nlp.tokenizer-4.1.1-src/dist/vn.hus.nlp.tokenizer-4.1.1-src/dist/vn.hus.nlp.tokenizer-4.1.1-src/tokenizer.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vn_core_nlp/preprocessing/word_tokenizer/vn.hus.nlp.tokenizer-4.1.1-bin/dist/vn.hus.nlp.tokenizer-4.1.1-src/dist/vn.hus.nlp.tokenizer-4.1.1-src/tokenizer.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vn_core_nlp/preprocessing/word_tokenizer/vn.hus.nlp.tokenizer-4.1.1-bin/dist/vn.hus.nlp.tokenizer-4.1.1-src/tokenizer.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vn_core_nlp/preprocessing/word_tokenizer/vn.hus.nlp.tokenizer-4.1.1-bin/lib/commons-cli-1.2.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vn_core_nlp/preprocessing/word_tokenizer/vn.hus.nlp.tokenizer-4.1.1-bin/lib/junit.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vn_core_nlp/preprocessing/word_tokenizer/vn.hus.nlp.tokenizer-4.1.1-bin/lib/maxent-2.5.2.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vn_core_nlp/preprocessing/word_tokenizer/vn.hus.nlp.tokenizer-4.1.1-bin/lib/opennlp-tools-1.4.3.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vn_core_nlp/preprocessing/word_tokenizer/vn.hus.nlp.tokenizer-4.1.1-bin/lib/trove.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vn_core_nlp/preprocessing/word_tokenizer/vn.hus.nlp.tokenizer-4.1.1-bin/lib/vn.hus.nlp.fsm-1.0.0.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vn_core_nlp/preprocessing/word_tokenizer/vn.hus.nlp.tokenizer-4.1.1-bin/lib/vn.hus.nlp.sd-2.0.0.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vn_core_nlp/preprocessing/word_tokenizer/vn.hus.nlp.tokenizer-4.1.1-bin/lib/vn.hus.nlp.utils-1.0.0.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vn_core_nlp/preprocessing/word_tokenizer/vn.hus.nlp.tokenizer-4.1.1-bin/models/sentDetection/VietnameseSD.bin.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vn_core_nlp/preprocessing/word_tokenizer/vn.hus.nlp.tokenizer-4.1.1-bin/models/tokenization/automata/dfaLexicon.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vn_core_nlp/preprocessing/word_tokenizer/vn.hus.nlp.tokenizer-4.1.1-bin/models/tokenization/automata/externalLexicon.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vn_core_nlp/preprocessing/word_tokenizer/vn.hus.nlp.tokenizer-4.1.1-bin/models/tokenization/bigram/bigram.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vn_core_nlp/preprocessing/word_tokenizer/vn.hus.nlp.tokenizer-4.1.1-bin/models/tokenization/bigram/unigram.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vn_core_nlp/preprocessing/word_tokenizer/vn.hus.nlp.tokenizer-4.1.1-bin/models/tokenization/lexers/lexers.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vn_core_nlp/preprocessing/word_tokenizer/vn.hus.nlp.tokenizer-4.1.1-bin/models/tokenization/normalization/rules.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vn_core_nlp/preprocessing/word_tokenizer/vn.hus.nlp.tokenizer-4.1.1-bin/models/tokenization/prefix/namedEntityPrefix.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vn_core_nlp/preprocessing/word_tokenizer/vn.hus.nlp.tokenizer-4.1.1-bin/samples/0.tok.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vn_core_nlp/preprocessing/word_tokenizer/vn.hus.nlp.tokenizer-4.1.1-bin/samples/0.tok.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vn_core_nlp/preprocessing/word_tokenizer/vn.hus.nlp.tokenizer-4.1.1-bin/samples/0.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vn_core_nlp/preprocessing/word_tokenizer/vn.hus.nlp.tokenizer-4.1.1-bin/samples/1.tok.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vn_core_nlp/preprocessing/word_tokenizer/vn.hus.nlp.tokenizer-4.1.1-bin/samples/1.tok.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vn_core_nlp/preprocessing/word_tokenizer/vn.hus.nlp.tokenizer-4.1.1-bin/samples/1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vn_core_nlp/preprocessing/word_tokenizer/vn.hus.nlp.tokenizer-4.1.1-bin/samples/2.tok.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vn_core_nlp/preprocessing/word_tokenizer/vn.hus.nlp.tokenizer-4.1.1-bin/samples/2.tok.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vn_core_nlp/preprocessing/word_tokenizer/vn.hus.nlp.tokenizer-4.1.1-bin/samples/2.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vn_core_nlp/preprocessing/word_tokenizer/vn.hus.nlp.tokenizer-4.1.1-bin/samples/3.tok.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vn_core_nlp/preprocessing/word_tokenizer/vn.hus.nlp.tokenizer-4.1.1-bin/samples/3.tok.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vn_core_nlp/preprocessing/word_tokenizer/vn.hus.nlp.tokenizer-4.1.1-bin/samples/3.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vn_core_nlp/preprocessing/word_tokenizer/vn.hus.nlp.tokenizer-4.1.1-bin/samples/4.tok.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vn_core_nlp/preprocessing/word_tokenizer/vn.hus.nlp.tokenizer-4.1.1-bin/samples/4.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vn_core_nlp/preprocessing/word_tokenizer/vn.hus.nlp.tokenizer-4.1.1-bin/tokenizer.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vn_core_nlp/preprocessing/word_tokenizer/vn.hus.nlp.tokenizer-4.1.1-bin/tokenizer.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vn_core_nlp/preprocessing/word_tokenizer/vn.hus.nlp.tokenizer-4.1.1-bin/vn.hus.nlp.tokenizer-4.1.1.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vn_core_nlp/preprocessing/word_tokenizer/vn.hus.nlp.tokenizer-4.1.1-bin/vnTokenizer.bat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vn_core_nlp/preprocessing/word_tokenizer/vn.hus.nlp.tokenizer-4.1.1-bin/vnTokenizer.sh" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vn_core_nlp/preprocessing/word_tokenizer/word_tokenizer.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vn_core_nlp/semantic_role_labeling/semantic_role_labeling.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vn_core_nlp/semantic_role_labeling/vnSRL-1.0.0/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vn_core_nlp/semantic_role_labeling/vnSRL-1.0.0/data/input/100-sen.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vn_core_nlp/semantic_role_labeling/vnSRL-1.0.0/data/output/output.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vn_core_nlp/semantic_role_labeling/vnSRL-1.0.0/embedding/glove.pkl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vn_core_nlp/semantic_role_labeling/vnSRL-1.0.0/embedding/skipgram.pkl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vn_core_nlp/semantic_role_labeling/vnSRL-1.0.0/lib.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vn_core_nlp/semantic_role_labeling/vnSRL-1.0.0/model/enc.pkl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vn_core_nlp/semantic_role_labeling/vnSRL-1.0.0/model/leFeature.pkl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vn_core_nlp/semantic_role_labeling/vnSRL-1.0.0/model/leLabel.pkl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vn_core_nlp/semantic_role_labeling/vnSRL-1.0.0/model/model.pkl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vn_core_nlp/semantic_role_labeling/vnSRL-1.0.0/vnSRL.py" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/setup.py" afterPath="$PROJECT_DIR$/setup.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test.py" afterPath="$PROJECT_DIR$/test.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vn_core_nlp.egg-info/PKG-INFO" afterPath="$PROJECT_DIR$/vn_core_nlp.egg-info/PKG-INFO" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vn_core_nlp.egg-info/SOURCES.txt" afterPath="$PROJECT_DIR$/vn_core_nlp.egg-info/SOURCES.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vn_core_nlp/preprocessing/__init__.py" afterPath="$PROJECT_DIR$/vn_core_nlp/preprocessing/__init__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vn_core_nlp/preprocessing/pos_tagger/__init__.py" afterPath="$PROJECT_DIR$/vn_core_nlp/preprocessing/pos_tagger/__init__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vn_core_nlp/preprocessing/sentence_detector/__init__.py" afterPath="$PROJECT_DIR$/vn_core_nlp/preprocessing/sentence_detector/__init__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vn_core_nlp/preprocessing/word_tokenizer/__init__.py" afterPath="$PROJECT_DIR$/vn_core_nlp/preprocessing/word_tokenizer/__init__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vn_core_nlp/semantic_role_labeling/__init__.py" afterPath="$PROJECT_DIR$/vn_core_nlp/semantic_role_labeling/__init__.py" />
+    </list>
     <ignored path="vn-core-nlp.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -15,7 +159,7 @@
   <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/vn-core-nlp$test.coverage" NAME="test Coverage Results" MODIFIED="1463385075517" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/vn-core-nlp" />
-    <SUITE FILE_PATH="coverage/vn-core-nlp$test__1_.coverage" NAME="test (1) Coverage Results" MODIFIED="1463473389942" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/vn-core-nlp$test__1_.coverage" NAME="test (1) Coverage Results" MODIFIED="1463541316384" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
@@ -26,11 +170,31 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="test.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/test.py">
+      <file leaf-file-name="setup.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/setup.py">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.64285713">
               <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MANIFEST.in" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MANIFEST.in">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="18" selection-start-line="0" selection-start-column="18" selection-end-line="0" selection-end-column="18" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
               <folding>
                 <element signature="e#0#83#0" expanded="true" />
               </folding>
@@ -38,21 +202,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="setup.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/setup.py">
+      <file leaf-file-name="JVnSegmenter.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/vn_core_nlp/preprocessing/word_tokenizer/JVnSegmenter.py">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="semantic_role_labeling.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/vn_core_nlp/semantic_role_labeling/semantic_role_labeling.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+              <caret line="12" column="60" selection-start-line="12" selection-start-column="60" selection-end-line="12" selection-end-column="60" />
               <folding>
                 <element signature="e#0#28#0" expanded="true" />
               </folding>
@@ -61,22 +215,66 @@
         </entry>
       </file>
       <file leaf-file-name="vnSRL.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/vn_core_nlp/semantic_role_labeling/vnSRL-1.0.0/vnSRL.py">
+        <entry file="file://$PROJECT_DIR$/vn_core_nlp/semantic_role_labeling/vnSRL.py">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="29" column="12" selection-start-line="29" selection-start-column="12" selection-end-line="29" selection-end-column="12" />
+              <caret line="8" column="59" selection-start-line="8" selection-start-column="59" selection-end-line="8" selection-end-column="59" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="__init__.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/vn_core_nlp/preprocessing/word_tokenizer/__init__.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
               <folding>
-                <element signature="e#0#10#0" expanded="true" />
+                <element signature="e#0#36#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="lib.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/vn_core_nlp/semantic_role_labeling/vnSRL-1.0.0/lib.py">
+      <file leaf-file-name="__init__.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/vn_core_nlp/__init__.py">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="404" column="39" selection-start-line="404" selection-start-column="39" selection-end-line="404" selection-end-column="39" />
+              <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#37#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="__init__.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/vn_core_nlp/semantic_role_labeling/__init__.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="24" selection-start-line="0" selection-start-column="24" selection-end-line="0" selection-end-column="24" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="__init__.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/vn_core_nlp/preprocessing/__init__.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="2" column="31" selection-start-line="2" selection-start-column="31" selection-end-line="2" selection-end-column="31" />
+              <folding>
+                <element signature="e#0#44#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="__init__.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/vn_core_nlp/preprocessing/pos_tagger/__init__.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -91,6 +289,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -101,20 +302,24 @@
         <option value="$PROJECT_DIR$/vn-core-nlp/test.py" />
         <option value="$PROJECT_DIR$/vn-core-nlp/preprocessing/sentence-detector/__init__.py" />
         <option value="$PROJECT_DIR$/vn-core-nlp/preprocessing/__init__.py" />
-        <option value="$PROJECT_DIR$/vn_core_nlp/preprocessing/sentence_detector/__init__.py" />
-        <option value="$PROJECT_DIR$/vn_core_nlp/preprocessing/word_tokenizer/__init__.py" />
-        <option value="$PROJECT_DIR$/vn_core_nlp/preprocessing/pos_tagger/__init__.py" />
         <option value="$PROJECT_DIR$/vn_core_nlp/setup.py" />
         <option value="$PROJECT_DIR$/vn_core_nlp/__init__.py" />
-        <option value="$PROJECT_DIR$/vn_core_nlp/preprocessing/__init__.py" />
         <option value="$PROJECT_DIR$/MANIFEST.in" />
-        <option value="$PROJECT_DIR$/vn_core_nlp/preprocessing/sentence_detector/sentence_detector.py" />
-        <option value="$PROJECT_DIR$/vn_core_nlp/preprocessing/pos_tagger/pos_tagger.py" />
-        <option value="$PROJECT_DIR$/vn_core_nlp/preprocessing/word_tokenizer/word_tokenizer.py" />
         <option value="$PROJECT_DIR$/vn_core_nlp/semantic_role_labeling/vnSRL-1.0.0/vnSRL.py" />
         <option value="$PROJECT_DIR$/vn_core_nlp/semantic_role_labeling/vnSRL-1.0.0/lib.py" />
+        <option value="$PROJECT_DIR$/vn_core_nlp/preprocessing/word_tokenizer/word_tokenizer.py" />
+        <option value="$PROJECT_DIR$/vn_core_nlp/preprocessing/word_tokenizer/vnTokenizer.py" />
+        <option value="$PROJECT_DIR$/vn_core_nlp/preprocessing/word_tokenizer/__init__.py" />
+        <option value="$PROJECT_DIR$/vn_core_nlp/preprocessing/sentence_detector/sentence_detector.py" />
+        <option value="$PROJECT_DIR$/vn_core_nlp/preprocessing/sentence_detector/vnSentDetector.py" />
+        <option value="$PROJECT_DIR$/vn_core_nlp/preprocessing/sentence_detector/__init__.py" />
+        <option value="$PROJECT_DIR$/vn_core_nlp/preprocessing/pos_tagger/pos_tagger.py" />
+        <option value="$PROJECT_DIR$/vn_core_nlp/preprocessing/pos_tagger/__init__.py" />
+        <option value="$PROJECT_DIR$/vn_core_nlp/preprocessing/__init__.py" />
         <option value="$PROJECT_DIR$/vn_core_nlp/semantic_role_labeling/semantic_role_labeling.py" />
+        <option value="$PROJECT_DIR$/vn_core_nlp/semantic_role_labeling/vnSRL.py" />
         <option value="$PROJECT_DIR$/vn_core_nlp/semantic_role_labeling/__init__.py" />
+        <option value="$PROJECT_DIR$/vn_core_nlp/preprocessing/word_tokenizer/JVnSegmenter.py" />
         <option value="$PROJECT_DIR$/test.py" />
         <option value="$PROJECT_DIR$/setup.py" />
       </list>
@@ -126,10 +331,10 @@
     <detection-done>true</detection-done>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1425" />
-    <option name="y" value="24" />
+    <option name="x" value="65" />
+    <option name="y" value="-4" />
     <option name="width" value="1295" />
-    <option name="height" value="744" />
+    <option name="height" value="772" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -156,7 +361,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -192,13 +396,20 @@
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../cutoff" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/vn_core_nlp/semantic_role_labeling" />
+      <recent name="$PROJECT_DIR$/vn_core_nlp/preprocessing/pos_tagger" />
+      <recent name="$PROJECT_DIR$/vn_core_nlp/preprocessing/sentence_detector" />
+      <recent name="$PROJECT_DIR$/vn_core_nlp/preprocessing/word_tokenizer" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/vn_core_nlp/preprocessing/pos_tagger" />
       <recent name="$PROJECT_DIR$/vn_core_nlp/preprocessing/word_tokenizer" />
@@ -461,7 +672,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1425" y="24" width="1295" height="744" extended-state="6" />
+    <frame x="65" y="-4" width="1295" height="772" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -496,17 +707,27 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/vn_core_nlp/preprocessing/sentence_detector/sentence_detector.py">
+    <entry file="file://$PROJECT_DIR$/test.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#0#28#0" expanded="false" />
+            <element signature="e#0#83#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/setup.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -520,12 +741,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/vn_core_nlp/preprocessing/sentence_detector/sentence_detector.py">
+    <entry file="file://$PROJECT_DIR$/test.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="4" column="79" selection-start-line="4" selection-start-column="79" selection-end-line="4" selection-end-column="79" />
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#0#28#0" expanded="false" />
+            <element signature="e#0#83#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -540,118 +761,100 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/vn_core_nlp/preprocessing/pos_tagger/pos_tagger.py">
+    <entry file="file://$PROJECT_DIR$/vn_core_nlp/preprocessing/word_tokenizer/vnTokenizer.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="9" column="47" selection-start-line="9" selection-start-column="47" selection-end-line="9" selection-end-column="47" />
+          <caret line="4" column="30" selection-start-line="0" selection-start-column="0" selection-end-line="12" selection-end-column="135" />
           <folding>
-            <element signature="e#0#28#0" expanded="false" />
+            <element signature="e#0#28#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/vn_core_nlp/preprocessing/word_tokenizer/word_tokenizer.py">
+    <entry file="file://$PROJECT_DIR$/vn_core_nlp/preprocessing/sentence_detector/vnSentDetector.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="14" column="93" selection-start-line="14" selection-start-column="93" selection-end-line="14" selection-end-column="93" />
-          <folding>
-            <element signature="e#0#28#0" expanded="false" />
-          </folding>
+        <state vertical-scroll-proportion="0.3857143">
+          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/vn_core_nlp/preprocessing/sentence_detector/sentence_detector.py">
+    <entry file="file://$PROJECT_DIR$/vn_core_nlp/preprocessing/sentence_detector/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#28#0" expanded="false" />
-          </folding>
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test.py">
+    <entry file="file://$PROJECT_DIR$/vn_core_nlp/preprocessing/pos_tagger/vnTagger.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#83#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vn_core_nlp/preprocessing/sentence_detector/vn.hus.nlp.sd-2.0.0-bin/samples/test0.sd.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vn_core_nlp/preprocessing/sentence_detector/vn.hus.nlp.sd-2.0.0-bin/samples/test0.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vn_core_nlp/preprocessing/sentence_detector/vn.hus.nlp.sd-2.0.0-bin/README.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vn_core_nlp/preprocessing/sentence_detector/vn.hus.nlp.sd-2.0.0-bin/LICENSE.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vn_core_nlp/preprocessing/word_tokenizer/vn.hus.nlp.tokenizer-4.1.1-bin/dist/vn.hus.nlp.tokenizer-4.1.1-bin/dist/vn.hus.nlp.tokenizer-4.1.1-bin/dist/vn.hus.nlp.tokenizer-4.1.1-src/tokenizer.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.64450127">
-          <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vn_core_nlp/preprocessing/word_tokenizer/vn.hus.nlp.tokenizer-4.1.1-bin/dist/vn.hus.nlp.tokenizer-4.1.1-bin/dist/vn.hus.nlp.tokenizer-4.1.1-bin/dist/vn.hus.nlp.tokenizer-4.1.1-src/build.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/vn_core_nlp/preprocessing/pos_tagger/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="33" selection-start-line="0" selection-start-column="33" selection-end-line="0" selection-end-column="33" />
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vn_core_nlp/preprocessing/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="2" column="31" selection-start-line="2" selection-start-column="31" selection-end-line="2" selection-end-column="31" />
+          <folding>
+            <element signature="e#0#44#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vn_core_nlp/semantic_role_labeling/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="24" selection-start-line="0" selection-start-column="24" selection-end-line="0" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vn_core_nlp/semantic_role_labeling/vnSRL.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="8" column="59" selection-start-line="8" selection-start-column="59" selection-end-line="8" selection-end-column="59" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vn_core_nlp/preprocessing/word_tokenizer/JVnSegmenter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="12" column="60" selection-start-line="12" selection-start-column="60" selection-end-line="12" selection-end-column="60" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vn_core_nlp/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#37#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/vn_core_nlp/preprocessing/word_tokenizer/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="41" selection-start-line="0" selection-start-column="41" selection-end-line="0" selection-end-column="41" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vn_core_nlp/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.028125">
-          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vn_core_nlp/preprocessing/pos_tagger/pos_tagger.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="8" column="79" selection-start-line="8" selection-start-column="79" selection-end-line="8" selection-end-column="79" />
+          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
           <folding>
-            <element signature="e#0#28#0" expanded="false" />
+            <element signature="e#0#36#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -664,103 +867,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/vn_core_nlp/semantic_role_labeling/__init__.py">
+    <entry file="file://$PROJECT_DIR$/test.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.028125">
-          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vn_core_nlp/preprocessing/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.084375">
-          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
           <folding>
-            <element signature="e#0#47#0" expanded="false" />
+            <element signature="e#0#83#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vn_core_nlp/preprocessing/word_tokenizer/word_tokenizer.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3375">
-          <caret line="12" column="46" selection-start-line="12" selection-start-column="46" selection-end-line="12" selection-end-column="46" />
-          <folding>
-            <element signature="e#0#28#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vn_core_nlp/preprocessing/sentence_detector/sentence_detector.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.28125">
-          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#28#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vn_core_nlp/preprocessing/sentence_detector/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.028125">
-          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vn_core_nlp/semantic_role_labeling/vnSRL-1.0.0/data/input/100-sen.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.39375">
-          <caret line="14" column="24" selection-start-line="0" selection-start-column="0" selection-end-line="100" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/setup.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vn_core_nlp/semantic_role_labeling/vnSRL-1.0.0/lib.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="404" column="39" selection-start-line="404" selection-start-column="39" selection-end-line="404" selection-end-column="39" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vn_core_nlp/semantic_role_labeling/vnSRL-1.0.0/vnSRL.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="29" column="12" selection-start-line="29" selection-start-column="12" selection-end-line="29" selection-end-column="12" />
-          <folding>
-            <element signature="e#0#10#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vn_core_nlp/semantic_role_labeling/semantic_role_labeling.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#28#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test.py">
-      <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.64285713">
           <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#83#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>

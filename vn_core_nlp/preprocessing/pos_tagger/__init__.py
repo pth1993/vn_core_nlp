@@ -1,1 +1,1 @@
-from .pos_tagger import POSTagger
+from .vnTagger import vnTagger

@@ -1,1 +1,1 @@
-from .semantic_role_labeling import SemanticRoleLabeling
+from .vnSRL import vnSRL

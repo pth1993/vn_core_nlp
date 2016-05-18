@@ -1,8 +1,8 @@
 Metadata-Version: 1.0
 Name: vn-core-nlp
-Version: 0.2.1
+Version: 0.2.3
 Summary: The python package for vietnamese text processing
-Home-page: UNKNOWN
+Home-page: https://github.com/pth1993/vn_core_nlp
 Author: Hoang Pham
 Author-email: phamthaihoang.hn@gmail.com
 License: UNKNOWN
